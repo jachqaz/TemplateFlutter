@@ -1,4 +1,4 @@
-# corina_brain_research_digital_application
+# Template Flutter
 
 A template is made integrating dependencies of State, Blocs and Cubits.
 A HomeView screen is left, with integration of ChangeNotifierProvider and BlocBuilder
